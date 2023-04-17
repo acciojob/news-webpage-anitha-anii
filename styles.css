@@ -13,7 +13,7 @@ header{
 	color:white;
 	text-align:center;
 }
-.a{
+.latest-news-section{
 	margin:10px auto;
 	padding:20px;
  	background-color:white;
@@ -45,7 +45,7 @@ border-radius:20px;
 	
 	
 } 
-.c{
+.pictorial-news-section{
 	margin:10px auto;
 	padding:20px;
  	background-color:white;
